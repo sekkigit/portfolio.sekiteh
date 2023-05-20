@@ -139,6 +139,7 @@ Navbar
 
 nav.navbar{
 	position: fixed;
+	display: flex;
 	top: -72px;
 	margin-bottom: 0px;
 	padding: 10px 0px 10px 0px;
