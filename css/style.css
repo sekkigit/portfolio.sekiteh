@@ -256,6 +256,7 @@ Parallax
 	background-attachment: fixed;
 	display: flex;
 }
+
 #parallax2{
 	background-image: url(../img/parallax/2.jpg);
 	background-size: cover;
