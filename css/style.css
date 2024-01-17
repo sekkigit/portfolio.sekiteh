@@ -195,7 +195,7 @@ Home sections
 .home-section {
 	width: 100%;
 	height: 100%;
-	padding: 150px 0px 150px 0px;
+	padding: 100px 0px 100px 0px;
 }
 
 /* --- heading --- */
@@ -215,7 +215,7 @@ Home sections
 	width: 80px;
 	background: #333;
 	margin-top: 10px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 
